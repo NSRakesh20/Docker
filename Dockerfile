@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN apt insta git -y
+RUN apt install git -y
